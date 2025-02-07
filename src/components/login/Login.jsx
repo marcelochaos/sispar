@@ -1,5 +1,5 @@
 import Capa from"../../assets/Tela Login/imagem tela de login.png"
-import Logo from"../../assets/Tela Login/logo
+import Logo from"../../assets/Tela Login/logo-ws.png"
 function Login(){
     return(
         <main>
